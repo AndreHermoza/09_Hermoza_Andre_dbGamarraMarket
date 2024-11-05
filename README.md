@@ -1,1 +1,1 @@
--Capturas de la activad desarrollada
+-- Capturas de la activad desarrollada
