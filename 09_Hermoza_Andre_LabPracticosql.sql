@@ -92,8 +92,12 @@ vendedor_id int not null,
 );
 
 insert INTO venta (cliente_id, vendedor_id) values 
-();
+('4', '1' ),
+('6', '3' ),
+('10', '1' ),
+('18', '4' );
 -- Listar columnas en ventas
+select * from venta;
 SHOW COLUMNS IN venta;
 
 
